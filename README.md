@@ -31,7 +31,3 @@ A simple calculator with basic arithmetic functions.
 ## Credits
 
 Created by Vidwat.
-
----
-
-Feel free to add more sections or details to tailor the README to your specific needs!
